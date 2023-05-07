@@ -14,13 +14,13 @@ export default function Navbar(): JSX.Element {
         </p>
         <div class="flex gap-5">
           <IconButton
-            href="https://discord.gg/C2fbK35Rhg"
+            href="https://discord.gg/aura-development-websites-974005828086550568"
             text="Discord"
             type="fa-brands"
             icon="fa-discord"
           />
           <IconButton
-            href="https://github.com/Radon-Games/Radon-Games"
+            href="https://github.com/alphaotuken/Don-T"
             text="GitHub"
             type="fa-brands"
             icon="fa-github"
@@ -29,7 +29,7 @@ export default function Navbar(): JSX.Element {
         <span class="font-semibold">
           <a
             class="hover:underline hover:text-amber-500 transition-all"
-            href={`https://github.com/Radon-Games/Radon-Games/releases/tag/v${version}`}
+            href={`https://github.com/alphaotuken/Don-T/releases/tag/v${version}`}
             target="_blank"
           >
             <i class="fa-regular fa-code-branch"></i> v{version}
@@ -50,15 +50,15 @@ export default function Navbar(): JSX.Element {
         <div class="flex flex-col gap-2">
           <FooterLink
             text="Request"
-            href="https://github.com/Radon-Games/Radon-Games/issues/new?assignees=&labels=game%20request&template=game_request.yaml"
+            href="https://github.com/alphaotuken/Don-T/issues/new?assignees=&labels=game%20request&template=game_request.yaml"
           />
           <FooterLink
             text="Report"
-            href="https://github.com/Radon-Games/Radon-Games/issues/new?assignees=&labels=bug&template=bug_report.yaml"
+            href="https://github.com/alphaotuken/Don-T/issues/new?assignees=&labels=bug&template=bug_report.yaml"
           />
           <FooterLink
             text="Patreon"
-            href="https://www.patreon.com/Radon_Games"
+            href="https://www.patreon.com/taloisik"
           />
         </div>
       </div>
