@@ -8,8 +8,8 @@ export default function SEO(): JSX.Element {
       <Meta name="viewport" content="width=device-width, initial-scale=1" />
       <Meta name="theme-color" content="#f59e0b" />
 
-      <Title>Radon Games</Title>
-      <Meta property="og:title" content="Radon Games" />
+      <Title>Don-T Games</Title>
+      <Meta property="og:title" content="Don-T Games" />
 
       <link rel="icon" href="/favicon.ico" />
       <Meta property="og:image" content="/icons/128.png" />
@@ -25,7 +25,7 @@ export default function SEO(): JSX.Element {
       />
       <Meta
         name="keywords"
-        content="radon,games,radon games,unblocked,unblocked games,html games,html5 games,flash games,flashplayer games,proxy,io"
+        content="don-t,games,don-t games,unblocked,unblocked games,html games,html5 games,flash games,flashplayer games,proxy,io"
       />
     </>
   );
