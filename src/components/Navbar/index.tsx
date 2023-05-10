@@ -22,7 +22,7 @@ export default function Navbar(): JSX.Element {
         <div class="hidden md:flex gap-5 items-center justify-center">
           <NavSearchbar />
           <IconButton
-            href="https://discord.gg/C2fbK35Rhg"
+            href="https://discord.gg/"
             text="Discord"
             type="fa-brands"
             icon="fa-discord"
