@@ -8,7 +8,7 @@ export default function Navbar(): JSX.Element {
   return (
     <footer class="my-10 px-8 sm:px-16 md:px-20 lg:px-32 flex gap-10 flex-col md:flex-row justify-center items-center md:justify-between">
       <div class="flex flex-col gap-5">
-        <img src={banner} alt="Radon Games" class="h-6 w-min" />
+        <img src={banner} alt="Don-T Games" class="h-6 w-min" />
         <p class="w-96 text-sm">
           An open-source unblocked games website built with simplicity in mind.
         </p>
