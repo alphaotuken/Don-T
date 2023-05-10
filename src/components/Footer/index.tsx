@@ -20,6 +20,12 @@ export default function Navbar(): JSX.Element {
             icon="fa-discord"
           />
           <IconButton
+            href="https://github.com/codewithcodyy"
+            text="Github"
+            type="fa-brands"
+            icon="fa-github"
+          />
+          <IconButton
             href="https://github.com/alphaotuken/Don-T"
             text="GitHub"
             type="fa-brands"
