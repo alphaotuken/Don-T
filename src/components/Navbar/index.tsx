@@ -8,10 +8,10 @@ export default function Navbar(): JSX.Element {
     <nav>
       <div class="flex items-center justify-center md:justify-between w-full sm:px-16 md:px-20 lg:px-32 shadow-2xl">
         <div class="flex gap-5 py-5">
-          <a href="/" title="Radon Games">
+          <a href="/" title="Don-T Games">
             <img
               src="/icons/transparent.png"
-              alt="Radon Games"
+              alt="Don-T Games"
               class="h-6"
             ></img>
           </a>
@@ -26,6 +26,19 @@ export default function Navbar(): JSX.Element {
             text="Discord"
             type="fa-brands"
             icon="fa-discord"
+          />
+          <IconButton
+            href="https://github.com/alphaotuken"
+            text="Github"
+            type="fa-brands"
+            icon="fa-github"
+          />
+          />
+          <IconButton
+            href="https://github.com/codewithcodyy"
+            text="Github"
+            type="fa-brands"
+            icon="fa-github"
           />
           <IconButton href="/options" text="Options" icon="fa-gear" />
         </div>
