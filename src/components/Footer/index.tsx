@@ -10,7 +10,7 @@ export default function Navbar(): JSX.Element {
       <div class="flex flex-col gap-5">
         <img src={banner} alt="Don-T Games" class="h-6 w-min" />
         <p class="w-96 text-sm">
-          An open-source unblocked games website built with simplicity in mind.
+          An open-source unblocked games website built with simplicity in mind. { Made by Talo & Podcast14 }
         </p>
         <div class="flex gap-5">
           <IconButton
